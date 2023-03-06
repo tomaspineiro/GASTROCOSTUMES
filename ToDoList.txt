@@ -11,5 +11,7 @@ Manuel:
 	- rueda de abitantes del objetivo 
 	- Mi web.(descargar CV)
 	- retocar la parte de mienbros 
+	- Redaccion: ciudad->poblacion
+		     dificiles de proveer->dificiles de encontrar
 
 
